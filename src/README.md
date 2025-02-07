@@ -2,9 +2,16 @@
 
 ## Project Description
 This is a project description.
+**This is version v1.0**
 
 ### New Features - added 07.02.2025
-This is a description of new features added latety. 
+This is a description of new features added latety.
+
+### New Project Organization:
+- src/ -> source documentation
+- data/ -> sample data 
+- docs/ -> additional information
+- tests/ -> test code
 
 ## Instalation Instrucions
 Those are the instalation instructions.
@@ -23,5 +30,5 @@ Those are the ways you can contribute to the project:
 - how to 3
 
 ## Contact Information
-This is a way you can contact me.4
+This is a way you can contact me.
 
