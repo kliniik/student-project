@@ -14,6 +14,7 @@ Those are the examples of how to use the project:
 - example 1
 - example 2
 - example 3
+- example 4
 
 ## How to contribute?
 Those are the ways you can contribute to the project:
