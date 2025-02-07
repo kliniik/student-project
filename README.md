@@ -3,6 +3,9 @@
 ## Project Description
 This is a project description.
 
+### New Features - added 07.02.2025
+This is a description of new features added latety. 
+
 ## Instalation Instrucions
 Those are the instalation instructions.
 
